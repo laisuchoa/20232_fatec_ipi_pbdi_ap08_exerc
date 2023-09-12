@@ -1,7 +1,7 @@
 # 20232_fatec_ipi_pbdi_ap08_exerc
 
-RA - 2041382221030
+Laís Uchoa / RA - 2041382221030
 
-RA - 2041382221016
+Ronaldo Souza / RA - 2041382221016
 
-RA - 2041382221029
+Carlos Eduardo / RA - 2041382221029
